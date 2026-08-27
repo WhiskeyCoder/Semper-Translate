@@ -156,5 +156,5 @@ Optional: also add `docs/demo.gif` for an animated preview in the README.
 MIT — do whatever you want, but don't blame us if your gunny asks why you're calling slippers *moonshoes*.
 
 ---
-
-*Moonshoes and knowledge sponges are not official USMC doctrine.*
+Current Build: v1.775
+*Moonshoes and knowledge sponges are not official USMC doctrine. This is satire and not affiliated with or supported by the USMC*
