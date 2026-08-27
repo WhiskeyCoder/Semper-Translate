@@ -138,17 +138,6 @@ python scripts/import_lexicon.py
 ```bash
 python -m unittest discover -s tests -v
 ```
-
----
-
-## Adding your screenshot
-
-1. Take a screenshot of the app running (`python main.py`)
-2. Save it as **`docs/screenshot.png`**
-3. The image at the top of this README will display automatically
-
-Optional: also add `docs/demo.gif` for an animated preview in the README.
-
 ---
 
 ## License
@@ -157,4 +146,5 @@ MIT — do whatever you want, but don't blame us if your gunny asks why you're c
 
 ---
 Current Build: v1.775
+
 *Moonshoes and knowledge sponges are not official USMC doctrine. This is satire and not affiliated with or supported by the USMC*
